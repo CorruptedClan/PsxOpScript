@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Sengheee/PSX-HUBs/main/CloudHUB", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/legacy/main/statue.lua"))()
