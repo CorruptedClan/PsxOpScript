@@ -1,1 +1,7 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes.lua"))()
+getgenv().AuthKey="HUGE_CNcQQHqAyx77GxUW"
+getgenv().LoadSettings={
+    UseSeperateSaves=false,
+    DisableStartupPrompt=false,
+    DisableGamepassCheck=false,
+}
+loadstring(game:HttpGet("https://hugegames.io/psx"))()
