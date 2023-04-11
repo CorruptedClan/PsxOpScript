@@ -1,7 +1,1 @@
-getgenv().AuthKey="HUGE_CNcQQHqAyx77GxUW"
-getgenv().LoadSettings={
-    UseSeperateSaves=false,
-    DisableStartupPrompt=false,
-    DisableGamepassCheck=false,
-}
-loadstring(game:HttpGet("https://hugegames.io/psx"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/senpaigm/Cat-Hub/main/PetSimulatX.lua"))()
